@@ -3,7 +3,7 @@ title:
 description:
 categories:
 tags:
-permalink: 
+permalink: /home/
 obsidianUIMode:
 ---
 
