@@ -8,6 +8,8 @@ obsidianUIMode:
 ---
 
 
+{% include feature_row %}
+
 A human detects tastes: **salty**, **sweet**, **bitter**, **sour**, and **umami** + **aroma** (smell)  + temperature receptors.
 
 
